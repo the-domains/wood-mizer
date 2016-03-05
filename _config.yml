@@ -6,13 +6,13 @@ color:
     - '#808078'
     - '#000000'
     - '#000000'
-  brandStrength: 0.09184242475793136
-  lightness: 0.8685663035038694
-  rhythmicContrast: 0.7675170933029934
-  saturation: 0.4395981588577358
+  brandStrength: 1
+  lightness: 0.209459
+  rhythmicContrast: 0.933277
+  saturation: 0.891891
 cta: {}
-layout_spectrum: 0.35823644179147873
+layout_spectrum: 1
 name: Wood Mizer
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.8182196227514874
+typography_spectrum: 0
