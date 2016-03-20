@@ -6,10 +6,10 @@ color:
     - '#989078'
     - '#B03028'
     - '#000000'
-  brandStrength: 0.5
-  lightness: 0.5
+  brandStrength: 0.307432
+  lightness: 0.275337
   rhythmicContrast: 0.171452
-  saturation: 0.5
+  saturation: 0.268581
 cta: {}
 layout_spectrum: 0.807432
 name: 'Experience Living '
