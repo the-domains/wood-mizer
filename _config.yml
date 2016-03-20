@@ -1,32 +1,19 @@
-name: 'Experience Living '
-favicon: null
-layout_spectrum: 0.41768
-typography_spectrum: 0.32762
-title: 'My life, my journey, my  experience........'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#eeeeee'
+    - '#B8C0C0'
+    - '#6C1D19'
+    - '#989078'
+    - '#B03028'
     - '#000000'
-    - '#777777'
-    - '#ff5500'
-    - '#dc13a7'
   brandStrength: 0.5
   lightness: 0.5
+  rhythmicContrast: 0.171452
   saturation: 0.5
-  rhythmicContrast: 0.5
+cta: {}
+layout_spectrum: 0.806587
+name: 'Experience Living '
+opengraph: {}
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+typography_spectrum: 0.32762
