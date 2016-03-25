@@ -1,6 +1,6 @@
 name: 'Experience Living '
 favicon: null
-layout_spectrum: 0.5317
+layout_spectrum: 1
 typography_spectrum: 0.48747
 cta:
   domain: null
@@ -21,10 +21,10 @@ color:
     - '#1573a6'
     - '#88a624'
     - '#d8d560'
-  brandStrength: 0.8125
+  brandStrength: 0.5625
   lightness: 0.5
-  saturation: 0.875
-  rhythmicContrast: 0.171452
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose:
   - name: null
     item: null
