@@ -21,10 +21,10 @@ color:
     - '#0075df'
     - '#6ac4ff'
     - '#b19c64'
-  brandStrength: 1
-  lightness: 0.875
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  brandStrength: 0.5625
+  lightness: 0.375
+  saturation: 0.375
+  rhythmicContrast: 0
 purpose:
   - name: null
     item: null
