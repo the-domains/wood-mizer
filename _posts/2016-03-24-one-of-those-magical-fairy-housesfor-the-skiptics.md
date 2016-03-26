@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: One of those magical fairy houses.....for the skiptics.
-datePublished: '2016-03-24T03:42:41.853Z'
-dateModified: '2016-03-24T03:42:18.882Z'
+description: 'One of those magical fairy houses.....for the skeptics. :]'
+datePublished: '2016-03-26T05:22:58.849Z'
+dateModified: '2016-03-26T05:22:48.221Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-24-one-of-those-magical-fairy-housesfor-the-skiptics.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-one-of-those-magical-fairy-housesfor-the-skiptics.md
-published: true
 url: one-of-those-magical-fairy-housesfor-the-skiptics/index.html
 _type: Article
 
