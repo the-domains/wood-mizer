@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "That's me in the lower left corner doing one of my all time favorite things, beach combing. I look at this picture with great emotion that fills me up so much my whole body is shaking, At that moment\_I was so lost, and horrified at what I new was going to be the inevitable, yet was powerless to stop it."
-datePublished: '2016-03-26T05:23:45.399Z'
-dateModified: '2016-03-26T05:23:35.949Z'
+datePublished: '2016-03-27T02:21:45.474Z'
+dateModified: '2016-03-27T02:21:39.048Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-25-thats-me-in-the-lower-left-corner-doing-one-of-my-all-time.md
