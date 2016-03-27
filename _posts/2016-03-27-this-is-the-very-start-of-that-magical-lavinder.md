@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "This is the very start of that magical lavinder\_"
-datePublished: '2016-03-27T02:41:58.368Z'
-dateModified: '2016-03-27T02:41:42.125Z'
+description: "This is the very start of that magical lavender farm and it's lovely trail......Little BIG moments!\_"
+datePublished: '2016-03-27T02:42:10.352Z'
+dateModified: '2016-03-27T02:42:05.422Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-27-this-is-the-very-start-of-that-magical-lavinder.md
