@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "It begins.....I have been looking into this for two years. I have been designing and\_"
-datePublished: '2016-04-09T03:44:17.859Z'
-dateModified: '2016-04-09T03:43:48.125Z'
+description: "\_It begins..I have been looking into this for two years. I have been designing and learning all there is to know about my tiny house. I will start the build in three weeks or less!"
+datePublished: '2016-04-13T05:40:02.442Z'
+dateModified: '2016-04-13T05:39:48.096Z'
 title: 'MY NEW BEGINNING!'
 author: []
+sourcePath: _posts/2016-04-09-my-new-beginning.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-09-my-new-beginning.md
-published: true
 url: my-new-beginning/index.html
 _type: Article
 
