@@ -1,19 +1,4 @@
-name: 'Experience Living '
-favicon: null
-layout_spectrum: 0.36146
-typography_spectrum: 0.43931
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#72a8d6'
@@ -22,10 +7,13 @@ color:
     - '#8d7d6d'
     - '#f3fefe'
   brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.385135
+  rhythmicContrast: 0.42652
+  saturation: 0.655405
+cta: {}
+layout_spectrum: 0.226351
+name: 'Experience Living '
+opengraph: {}
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+typography_spectrum: 0.43931
