@@ -6,10 +6,10 @@ color:
     - '#13519E'
     - '#968676'
     - '#FBFDFC'
-  brandStrength: 0.5
-  lightness: 0.385135
-  rhythmicContrast: 0.42652
-  saturation: 0.655405
+  brandStrength: 0.664695
+  lightness: 0.577702
+  rhythmicContrast: 0.55152
+  saturation: 0.552364
 cta: {}
 layout_spectrum: 0.226351
 name: 'Experience Living '
