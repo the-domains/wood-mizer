@@ -1,26 +1,18 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: "\_It begins..I have been looking into this for two years. I have been designing and learning all there is to know about my tiny house. I will start the build in three weeks or less!"
-datePublished: '2016-04-13T05:40:02.442Z'
-dateModified: '2016-04-13T05:39:48.096Z'
-title: 'MY NEW BEGINNING!'
-author: []
-sourcePath: _posts/2016-04-09-my-new-beginning.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2016-05-26T15:04:38.045Z'
+datePublished: '2016-05-26T15:04:48.870Z'
+description: 'I have been learning everything there is to know about building a tiny house for the past year. I have everything planned right down to every nut and bolt. I will start the build as soon as the shop is completed. '
+hasPage: true
+inFeed: true
+inNav: false
+keywords: []
+title: 'THE DESIGN '
+author: []
+starred: false
+sourcePath: _posts/2016-04-09-my-new-beginning.md
 url: my-new-beginning/index.html
 _type: Article
 
 ---
-It begins..I have been looking into this for two years. I have been designing and learning all there is to know about my tiny house. I will start the build in three weeks or less!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75836d87-b0ed-4385-86a0-fc4620b4e843.jpg)
+![I have been learning everything there is to know about building a tiny house for the past year. I have everything planned right down to every nut and bolt. I will start the build as soon as the shop is completed. ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2382a7015d5a1112ba76e37d79b166f7bbf121ce.jpg)
