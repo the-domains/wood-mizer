@@ -1,6 +1,6 @@
 name: 'Experience Living '
-layout_spectrum: 0.193412
-typography_spectrum: 0.31656
+layout_spectrum: 0.19099648646079004
+typography_spectrum: 0.7442638755310327
 cta:
   domain: null
   bucket: null
@@ -20,10 +20,10 @@ color:
     - '#F2CA80'
     - '#5E5A59'
     - '#0D0D0D'
-  brandStrength: 0.21228430909104645
-  lightness: 0.6302958398591727
-  saturation: 0.2736510254908353
-  rhythmicContrast: 0.8280438175424933
+  brandStrength: 0.10894037061370909
+  lightness: 0.25765685457736254
+  saturation: 0.36307527776807547
+  rhythmicContrast: 0.18020398658700287
 purpose:
   - name: null
     item: null
