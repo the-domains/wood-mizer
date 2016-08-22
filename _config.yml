@@ -1,19 +1,16 @@
+name: 'Experience Living '
+favicon: null
 layout_spectrum: 0.49446475389413536
 typography_spectrum: 0.14123781700618565
-color:
-  brandColors:
-    - '#36362C'
-    - '#5D917D'
-    - '#A8AD80'
-    - '#E6D4A7'
-    - '#825534'
-  brandStrength: 0.6094271009787917
-  lightness: 0.8954523096326739
-  saturation: 0.07305703032761812
-  rhythmicContrast: 0.22649133554659784
 coverPrefs:
   filter: false
-name: 'Experience Living '
+title: 'My Journey '
+author:
+  name: Mindy Tsolina
+  url: ''
+  email: beepresent.ms@gmail.com
+content_rating:
+  adult: false
 cta:
   domain: null
   bucket: null
@@ -26,12 +23,15 @@ opengraph:
   image: null
   type: null
   appId: null
+color:
+  brandColors:
+    - '#36362C'
+    - '#5D917D'
+    - '#A8AD80'
+    - '#E6D4A7'
+    - '#825534'
+  brandStrength: 0.6094271009787917
+  lightness: 0.6875
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
-title: 'My Journey '
-author:
-  name: Mindy Tsolina
-  url: ''
-  email: beepresent.ms@gmail.com
-content_rating:
-  adult: false
-favicon: null
