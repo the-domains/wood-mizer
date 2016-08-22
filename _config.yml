@@ -1,6 +1,19 @@
+layout_spectrum: 0.49446475389413536
+typography_spectrum: 0.14123781700618565
+color:
+  brandColors:
+    - '#36362C'
+    - '#5D917D'
+    - '#A8AD80'
+    - '#E6D4A7'
+    - '#825534'
+  brandStrength: 0.6094271009787917
+  lightness: 0.8954523096326739
+  saturation: 0.07305703032761812
+  rhythmicContrast: 0.22649133554659784
+coverPrefs:
+  filter: false
 name: 'Experience Living '
-layout_spectrum: 0.19099648646079004
-typography_spectrum: 0.7442638755310327
 cta:
   domain: null
   bucket: null
@@ -13,21 +26,7 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#73603D'
-    - '#BF8A49'
-    - '#F2CA80'
-    - '#5E5A59'
-    - '#0D0D0D'
-  brandStrength: 0.10894037061370909
-  lightness: 0.25765685457736254
-  saturation: 0.36307527776807547
-  rhythmicContrast: 0.18020398658700287
-purpose:
-  - name: null
-    item: null
-    url: null
+purpose: []
 title: 'My Journey '
 author:
   name: Mindy Tsolina
@@ -36,5 +35,3 @@ author:
 content_rating:
   adult: false
 favicon: null
-coverPrefs:
-  filter: false
